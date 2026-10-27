@@ -2,6 +2,25 @@
   "schemaVersion": 1,
   "packages": [
     {
+      "name": "@ai-security-tool/resource",
+      "version": "2.2.3",
+      "license": "MIT",
+      "registryIntegrity": "sha512-lg1tQX/lCoHEJ/wIIwGAllA0d/EGlRqxcnlHUV/2VyrSacY798JWIJto4n3AVmzXhSm/2dUK41n6ikfWQoaIAA==",
+      "upstream": {
+        "repository": "https://github.com/Anubis-Security-Tool/anubis-resource",
+        "commit": null
+      },
+      "noticeFiles": [
+        "notices/ai-security-tool__resource-2.2.3/original-package-metadata.json",
+        "notices/reference-terms/MIT.txt"
+      ],
+      "sourceArchives": [
+        "sources/ai-security-tool__resource-2.2.3-original-package.tar.gz"
+      ],
+      "status": "upstream-declaration-only",
+      "note": "Original SPDX declaration and original package are preserved; standard terms are reference material, not an invented copyright notice."
+    },
+    {
       "name": "@ant-design/icons-svg",
       "version": "4.5.0",
       "license": "MIT",
@@ -388,6 +407,11 @@
       "sha256": "27edb82f0b98a0403718a86c51513378e8075aac026ebacb5695c5c72efbcf09"
     },
     {
+      "path": "notices/ai-security-tool__resource-2.2.3/original-package-metadata.json",
+      "bytes": 363,
+      "sha256": "76bca2bb0c8d7ae2d85c6d7d2def1fd618e118efc024ef3e9206eec3eec51ead"
+    },
+    {
       "path": "notices/ant-design__icons-svg-4.5.0/original-package-metadata.json",
       "bytes": 387,
       "sha256": "583debea16e50dc4693a70616a84de4cbb84c85b0650ceeffe364543ca8fc049"
@@ -570,12 +594,17 @@
     {
       "path": "package.json",
       "bytes": 467,
-      "sha256": "ce85328684bddc878b1c18db51fffad2fec6c2b05f8f1ab50ea657d50428dcca"
+      "sha256": "3dfaec9de0d14f01e92b3a9cba15670c46d8b074cbeb69d6f41d02c6c52af979"
     },
     {
       "path": "README.md",
       "bytes": 3308,
       "sha256": "0e8e8e1dc114571109c7d1987f824d720e52d9de9f1817bd33112d3b8d57d57d"
+    },
+    {
+      "path": "sources/ai-security-tool__resource-2.2.3-original-package.tar.gz",
+      "bytes": 460650,
+      "sha256": "d4d3ba90c13af237401c03ce0b90499c80afeb0c4cf3684feda723a8b7f99b34"
     },
     {
       "path": "sources/eastasianwidth-0.2.0-original-package.tar.gz",

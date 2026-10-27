@@ -8,6 +8,7 @@ const assert = require('node:assert/strict')
 const root = path.resolve(__dirname, '..')
 const gh = process.platform === 'win32' ? 'gh.exe' : 'gh'
 const specs = [
+  ['@ai-security-tool/resource', '2.2.3'],
   ['@ant-design/icons-svg', '4.5.0'], ['manate', '2.0.3'],
   ['node-bash', '5.0.1'], ['child-shell', '5.0.0'],
   ['@xterm/addon-serialize', '0.15.0-beta.292'], ['@xterm/headless', '6.1.0-beta.292'],

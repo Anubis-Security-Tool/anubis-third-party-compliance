@@ -1,0 +1,12 @@
+{
+  "name": "@ai-security-tool/resource",
+  "version": "2.2.3",
+  "license": "MIT",
+  "author": null,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anubis-Security-Tool/anubis-resource.git"
+  },
+  "gitHead": null,
+  "registryIntegrity": "sha512-lg1tQX/lCoHEJ/wIIwGAllA0d/EGlRqxcnlHUV/2VyrSacY798JWIJto4n3AVmzXhSm/2dUK41n6ikfWQoaIAA=="
+}

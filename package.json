@@ -1,6 +1,6 @@
 {
   "name": "@ai-security-tool/third-party-compliance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Original third-party notices and exact corresponding-source archives for Anubis builds",
   "license": "SEE LICENSE IN README.md",
   "repository": {
