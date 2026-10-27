@@ -1,0 +1,14 @@
+{
+  "name": "eastasianwidth",
+  "version": "0.2.0",
+  "license": "MIT",
+  "author": {
+    "name": "Masaki Komagata"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/komagata/eastasianwidth.git"
+  },
+  "gitHead": "b89f04d44dc786885615e94cd6e2ba1ef7866fa4",
+  "registryIntegrity": "sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA=="
+}

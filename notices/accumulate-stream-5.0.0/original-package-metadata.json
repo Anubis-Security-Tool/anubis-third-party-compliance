@@ -1,0 +1,16 @@
+{
+  "name": "accumulate-stream",
+  "version": "5.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Ran Cohen",
+    "email": "rannn505@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rannn505/child-shell.git",
+    "directory": "packages/accumulate-stream"
+  },
+  "gitHead": "53d55fe71982aad3d10dfa2b962554675283f9c9",
+  "registryIntegrity": "sha512-a1pAtAy+LFCAQ6EpAwDeHERf99nadIXa8UApaddabeF18IsL8cD67WL67E/cRJf4EkZyR9z4F+9g+OCl3Cqi4w=="
+}

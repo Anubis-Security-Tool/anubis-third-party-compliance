@@ -1,0 +1,12 @@
+{
+  "name": "manate",
+  "version": "2.0.3",
+  "license": "MIT",
+  "author": null,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tylerlong/manate.git"
+  },
+  "gitHead": "22692c7a841758a2d9c530439393543fa3a0b6bc",
+  "registryIntegrity": "sha512-w3PpN9UcyAZspKVMAYVtITBkydlZo0WuzLbzcCTb2f0Hz8tKUC0LmYb2eB00CEKLUTWmh4erb+qZLlNkflZA6Q=="
+}

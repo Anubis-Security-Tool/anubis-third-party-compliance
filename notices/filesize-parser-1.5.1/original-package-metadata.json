@@ -1,0 +1,14 @@
+{
+  "name": "filesize-parser",
+  "version": "1.5.1",
+  "license": "MIT",
+  "author": {
+    "name": "Patrick Kettner"
+  },
+  "repository": {
+    "url": "git://github.com/patrickkettner/filesize-parser.git",
+    "type": "git"
+  },
+  "gitHead": "cd0aed99f5f16b01166b0041ea5e283e5cacac48",
+  "registryIntegrity": "sha512-wRjdlQ5JM3WHZp6xpakIHQbkcGig8ANglYQDPcQSgZUN5kcDGOgmAwB0396BxzHxcl+kr+GLuusxBnsjdO6x9A=="
+}

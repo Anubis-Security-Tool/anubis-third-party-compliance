@@ -1,0 +1,16 @@
+{
+  "name": "node-bash",
+  "version": "5.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Ran Cohen",
+    "email": "rannn505@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rannn505/child-shell.git",
+    "directory": "packages/node-bash"
+  },
+  "gitHead": "1fa869466bc916bfbaffa068de9787c2b67ab5a7",
+  "registryIntegrity": "sha512-a6cCJGtgDal9gGrv+N7IaAvHX98Yn+jEUVa5H6ycKWmmgM0SW1609YVA+fP7IU9Efu8fJi82cR8G1RxL9RwqWg=="
+}

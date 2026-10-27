@@ -1,0 +1,15 @@
+{
+  "name": "@xterm/addon-serialize",
+  "version": "0.15.0-beta.292",
+  "license": "MIT",
+  "author": {
+    "url": "https://xtermjs.org/",
+    "name": "The xterm.js authors"
+  },
+  "repository": {
+    "url": "git+https://github.com/xtermjs/xterm.js.git#master",
+    "type": "git"
+  },
+  "gitHead": "904ae935269eef5ec6a1415b64463c3d02eff1eb",
+  "registryIntegrity": "sha512-hmjC5eYDlJBhhMQQtTZrSsnvrGiSo4cJuToeRwafmIl1ei773DP5+xiJh4A7IHg6EozzEUcMprO50ehPS9gAmg=="
+}

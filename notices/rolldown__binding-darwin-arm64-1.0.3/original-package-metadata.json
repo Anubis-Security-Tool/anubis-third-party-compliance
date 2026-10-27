@@ -1,0 +1,13 @@
+{
+  "name": "@rolldown/binding-darwin-arm64",
+  "version": "1.0.3",
+  "license": "MIT",
+  "author": null,
+  "repository": {
+    "url": "git+https://github.com/rolldown/rolldown.git",
+    "type": "git",
+    "directory": "packages/rolldown"
+  },
+  "gitHead": "a287faaa3db70e9e4145b6bc16567f596a3c2e1f",
+  "registryIntegrity": "sha512-PcAhP+ynjURNyy8SKGl5DQP94aGuB/7JrXJb/t7P+hanXvQVMWzUvRRhBAcg/lNRadBhoUPqSoP4xw5tR/KBEA=="
+}

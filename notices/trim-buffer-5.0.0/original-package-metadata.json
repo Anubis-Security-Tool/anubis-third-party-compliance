@@ -1,0 +1,16 @@
+{
+  "name": "trim-buffer",
+  "version": "5.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Ran Cohen",
+    "email": "rannn505@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rannn505/child-shell.git",
+    "directory": "packages/trim-buffer"
+  },
+  "gitHead": "53d55fe71982aad3d10dfa2b962554675283f9c9",
+  "registryIntegrity": "sha512-PqdsRmhir3lUwraK/O6sdZ9QcmtUK0c6F1utX/WNquJsL4Jpdck+DSe9Mqy8Wk7uAQD/SlVn6cyGF5bj6VF33Q=="
+}

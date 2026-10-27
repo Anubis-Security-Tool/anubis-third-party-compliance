@@ -1,0 +1,16 @@
+{
+  "name": "replace-in-file",
+  "version": "6.3.5",
+  "license": "MIT",
+  "author": {
+    "url": "https://adam.reiz.nz/",
+    "name": "Adam Reis",
+    "email": "adam@reis.nz"
+  },
+  "repository": {
+    "url": "git+https://github.com/adamreisnz/replace-in-file.git",
+    "type": "git"
+  },
+  "gitHead": "0a5c20231e4d217b3309f1c458e78124adbde3c0",
+  "registryIntegrity": "sha512-arB9d3ENdKva2fxRnSjwBEXfK1npgyci7ZZuwysgAp7ORjHSyxz6oqIjTEv8R0Ydl4Ll7uOAZXL4vbkhGIizCg=="
+}

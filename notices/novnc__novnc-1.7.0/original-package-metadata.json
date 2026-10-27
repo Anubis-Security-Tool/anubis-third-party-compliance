@@ -1,0 +1,16 @@
+{
+  "name": "@novnc/novnc",
+  "version": "1.7.0",
+  "license": "MPL-2.0",
+  "author": {
+    "url": "https://github.com/kanaka",
+    "name": "Joel Martin",
+    "email": "github@martintribe.org"
+  },
+  "repository": {
+    "url": "git+https://github.com/novnc/noVNC.git",
+    "type": "git"
+  },
+  "gitHead": "63107bd06d9e1f6136ff21aeda8cd62cbf0d433e",
+  "registryIntegrity": "sha512-ucEJOx4T2avIRCleodk7YobZj5O2Ga2AeLfQ69A/yjG9HHba2+PDgwSkN3FttrmG+70ZGx21sElNFouK13RzyA=="
+}

@@ -1,0 +1,15 @@
+{
+  "name": "natural-compare",
+  "version": "1.4.0",
+  "license": "MIT",
+  "author": {
+    "name": "Lauri Rooden",
+    "url": "https://github.com/litejs/natural-compare-lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/litejs/natural-compare-lite.git"
+  },
+  "gitHead": "eec83eee67cfac84d6db30cdd65363f155673770",
+  "registryIntegrity": "sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw=="
+}

@@ -1,0 +1,16 @@
+{
+  "name": "keyv",
+  "version": "4.5.3",
+  "license": "MIT",
+  "author": {
+    "url": "http://jaredwray.com",
+    "name": "Jared Wray",
+    "email": "me@jaredwray.com"
+  },
+  "repository": {
+    "url": "git+https://github.com/jaredwray/keyv.git",
+    "type": "git"
+  },
+  "gitHead": null,
+  "registryIntegrity": "sha512-QCiSav9WaX1PgETJ+SpNnx2PRRapJ/oRSXM4VO5OGYGSjrxbKPVFVhB3l2OCbLCk329N8qyAtsJjSjvVBWzEug=="
+}

@@ -1,0 +1,16 @@
+{
+  "name": "child-shell",
+  "version": "5.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Ran Cohen",
+    "email": "rannn505@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rannn505/child-shell.git",
+    "directory": "packages/child-shell"
+  },
+  "gitHead": "53d55fe71982aad3d10dfa2b962554675283f9c9",
+  "registryIntegrity": "sha512-mNki2AmChI8IQM+MQlbh1/+wuqWtosqMrWRv3+RVY19M2IX0cOlGCfaC6DXRgqwnLASsFsZcvUhSJoOVc12mHQ=="
+}

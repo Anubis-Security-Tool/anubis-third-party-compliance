@@ -1,0 +1,12 @@
+{
+  "name": "@xterm/headless",
+  "version": "6.1.0-beta.292",
+  "license": "MIT",
+  "author": null,
+  "repository": {
+    "url": "git+https://github.com/xtermjs/xterm.js.git",
+    "type": "git"
+  },
+  "gitHead": "904ae935269eef5ec6a1415b64463c3d02eff1eb",
+  "registryIntegrity": "sha512-Es2xZ95wJb8n3hIfTfEh4AYzf7wXVQX1dVdA6idFFjRm26p+x6LZEgurXD6ZPwwsbXSfJXcAuzhYQruSw9Ccgg=="
+}

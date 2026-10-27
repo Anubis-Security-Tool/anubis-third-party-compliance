@@ -1,0 +1,12 @@
+{
+  "name": "@ant-design/icons-svg",
+  "version": "4.5.0",
+  "license": "MIT",
+  "author": null,
+  "repository": {
+    "url": "git+https://github.com/ant-design/ant-design-icons.git",
+    "type": "git"
+  },
+  "gitHead": "e6d33f4ba94ebe9f4b8648373342505b88e51a57",
+  "registryIntegrity": "sha512-1BTUFyKPTBZ53MuTP8s0k5SFEXL7o3VHEOwLgzaoWKwnBeqIcqUtVshc4SKzhI6uACfqhJqBwBUE9FsWR3uULA=="
+}

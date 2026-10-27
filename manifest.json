@@ -1,0 +1,641 @@
+{
+  "schemaVersion": 1,
+  "packages": [
+    {
+      "name": "@ant-design/icons-svg",
+      "version": "4.5.0",
+      "license": "MIT",
+      "registryIntegrity": "sha512-1BTUFyKPTBZ53MuTP8s0k5SFEXL7o3VHEOwLgzaoWKwnBeqIcqUtVshc4SKzhI6uACfqhJqBwBUE9FsWR3uULA==",
+      "upstream": {
+        "repository": "https://github.com/ant-design/ant-design-icons",
+        "commit": "e6d33f4ba94ebe9f4b8648373342505b88e51a57"
+      },
+      "noticeFiles": [
+        "notices/ant-design__icons-svg-4.5.0/original-package-metadata.json",
+        "notices/ant-design__icons-svg-4.5.0/upstream/LICENSE"
+      ],
+      "sourceArchives": [],
+      "status": "original-source-notice"
+    },
+    {
+      "name": "manate",
+      "version": "2.0.3",
+      "license": "MIT",
+      "registryIntegrity": "sha512-w3PpN9UcyAZspKVMAYVtITBkydlZo0WuzLbzcCTb2f0Hz8tKUC0LmYb2eB00CEKLUTWmh4erb+qZLlNkflZA6Q==",
+      "upstream": {
+        "repository": "https://github.com/tylerlong/manate",
+        "commit": "22692c7a841758a2d9c530439393543fa3a0b6bc"
+      },
+      "noticeFiles": [
+        "notices/manate-2.0.3/original-package-metadata.json",
+        "notices/reference-terms/MIT.txt"
+      ],
+      "sourceArchives": [
+        "sources/manate-2.0.3-original-package.tar.gz"
+      ],
+      "status": "upstream-declaration-only",
+      "note": "Original SPDX declaration and original package are preserved; standard terms are reference material, not an invented copyright notice."
+    },
+    {
+      "name": "node-bash",
+      "version": "5.0.1",
+      "license": "MIT",
+      "registryIntegrity": "sha512-a6cCJGtgDal9gGrv+N7IaAvHX98Yn+jEUVa5H6ycKWmmgM0SW1609YVA+fP7IU9Efu8fJi82cR8G1RxL9RwqWg==",
+      "upstream": {
+        "repository": "https://github.com/rannn505/child-shell",
+        "commit": "1fa869466bc916bfbaffa068de9787c2b67ab5a7"
+      },
+      "noticeFiles": [
+        "notices/node-bash-5.0.1/original-package-metadata.json",
+        "notices/node-bash-5.0.1/upstream/LICENSE.md"
+      ],
+      "sourceArchives": [],
+      "status": "original-source-notice"
+    },
+    {
+      "name": "child-shell",
+      "version": "5.0.0",
+      "license": "MIT",
+      "registryIntegrity": "sha512-mNki2AmChI8IQM+MQlbh1/+wuqWtosqMrWRv3+RVY19M2IX0cOlGCfaC6DXRgqwnLASsFsZcvUhSJoOVc12mHQ==",
+      "upstream": {
+        "repository": "https://github.com/rannn505/child-shell",
+        "commit": "53d55fe71982aad3d10dfa2b962554675283f9c9"
+      },
+      "noticeFiles": [
+        "notices/child-shell-5.0.0/original-package-metadata.json",
+        "notices/child-shell-5.0.0/upstream/LICENSE.md"
+      ],
+      "sourceArchives": [],
+      "status": "original-source-notice"
+    },
+    {
+      "name": "@xterm/addon-serialize",
+      "version": "0.15.0-beta.292",
+      "license": "MIT",
+      "registryIntegrity": "sha512-hmjC5eYDlJBhhMQQtTZrSsnvrGiSo4cJuToeRwafmIl1ei773DP5+xiJh4A7IHg6EozzEUcMprO50ehPS9gAmg==",
+      "upstream": {
+        "repository": null,
+        "commit": "904ae935269eef5ec6a1415b64463c3d02eff1eb"
+      },
+      "noticeFiles": [
+        "notices/xterm__addon-serialize-0.15.0-beta.292/original-package-metadata.json",
+        "notices/reference-terms/MIT.txt"
+      ],
+      "sourceArchives": [
+        "sources/xterm__addon-serialize-0.15.0-beta.292-original-package.tar.gz"
+      ],
+      "status": "upstream-declaration-only",
+      "note": "Original SPDX declaration and original package are preserved; standard terms are reference material, not an invented copyright notice."
+    },
+    {
+      "name": "@xterm/headless",
+      "version": "6.1.0-beta.292",
+      "license": "MIT",
+      "registryIntegrity": "sha512-Es2xZ95wJb8n3hIfTfEh4AYzf7wXVQX1dVdA6idFFjRm26p+x6LZEgurXD6ZPwwsbXSfJXcAuzhYQruSw9Ccgg==",
+      "upstream": {
+        "repository": "https://github.com/xtermjs/xterm.js",
+        "commit": "904ae935269eef5ec6a1415b64463c3d02eff1eb"
+      },
+      "noticeFiles": [
+        "notices/xterm__headless-6.1.0-beta.292/original-package-metadata.json",
+        "notices/xterm__headless-6.1.0-beta.292/upstream/LICENSE"
+      ],
+      "sourceArchives": [],
+      "status": "original-source-notice"
+    },
+    {
+      "name": "accumulate-stream",
+      "version": "5.0.0",
+      "license": "MIT",
+      "registryIntegrity": "sha512-a1pAtAy+LFCAQ6EpAwDeHERf99nadIXa8UApaddabeF18IsL8cD67WL67E/cRJf4EkZyR9z4F+9g+OCl3Cqi4w==",
+      "upstream": {
+        "repository": "https://github.com/rannn505/child-shell",
+        "commit": "53d55fe71982aad3d10dfa2b962554675283f9c9"
+      },
+      "noticeFiles": [
+        "notices/accumulate-stream-5.0.0/original-package-metadata.json",
+        "notices/accumulate-stream-5.0.0/upstream/LICENSE.md"
+      ],
+      "sourceArchives": [],
+      "status": "original-source-notice"
+    },
+    {
+      "name": "eastasianwidth",
+      "version": "0.2.0",
+      "license": "MIT",
+      "registryIntegrity": "sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==",
+      "upstream": {
+        "repository": "https://github.com/komagata/eastasianwidth",
+        "commit": "b89f04d44dc786885615e94cd6e2ba1ef7866fa4"
+      },
+      "noticeFiles": [
+        "notices/eastasianwidth-0.2.0/original-package-metadata.json",
+        "notices/reference-terms/MIT.txt"
+      ],
+      "sourceArchives": [
+        "sources/eastasianwidth-0.2.0-original-package.tar.gz"
+      ],
+      "status": "upstream-declaration-only",
+      "note": "Original SPDX declaration and original package are preserved; standard terms are reference material, not an invented copyright notice."
+    },
+    {
+      "name": "filesize-parser",
+      "version": "1.5.1",
+      "license": "MIT",
+      "registryIntegrity": "sha512-wRjdlQ5JM3WHZp6xpakIHQbkcGig8ANglYQDPcQSgZUN5kcDGOgmAwB0396BxzHxcl+kr+GLuusxBnsjdO6x9A==",
+      "upstream": {
+        "repository": "https://github.com/patrickkettner/filesize-parser",
+        "commit": "cd0aed99f5f16b01166b0041ea5e283e5cacac48"
+      },
+      "noticeFiles": [
+        "notices/filesize-parser-1.5.1/original-package-metadata.json",
+        "notices/reference-terms/MIT.txt"
+      ],
+      "sourceArchives": [
+        "sources/filesize-parser-1.5.1-original-package.tar.gz"
+      ],
+      "status": "upstream-declaration-only",
+      "note": "Original SPDX declaration and original package are preserved; standard terms are reference material, not an invented copyright notice."
+    },
+    {
+      "name": "find-free-port",
+      "version": "2.0.0",
+      "license": "ISC",
+      "registryIntegrity": "sha512-J1j8gfEVf5FN4PR5w5wrZZ7NYs2IvqsHcd03cAeQx3Ec/mo+lKceaVNhpsRKoZpZKbId88o8qh+dwUwzBV6WCg==",
+      "upstream": {
+        "repository": "https://github.com/mhzed/find-free-port",
+        "commit": null
+      },
+      "noticeFiles": [
+        "notices/find-free-port-2.0.0/original-package-metadata.json",
+        "notices/reference-terms/ISC.txt"
+      ],
+      "sourceArchives": [
+        "sources/find-free-port-2.0.0-original-package.tar.gz"
+      ],
+      "status": "upstream-declaration-only",
+      "note": "Original SPDX declaration and original package are preserved; standard terms are reference material, not an invented copyright notice."
+    },
+    {
+      "name": "keyv",
+      "version": "4.5.3",
+      "license": "MIT",
+      "registryIntegrity": "sha512-QCiSav9WaX1PgETJ+SpNnx2PRRapJ/oRSXM4VO5OGYGSjrxbKPVFVhB3l2OCbLCk329N8qyAtsJjSjvVBWzEug==",
+      "upstream": {
+        "repository": "https://github.com/jaredwray/keyv",
+        "commit": null
+      },
+      "noticeFiles": [
+        "notices/keyv-4.5.3/original-package-metadata.json",
+        "notices/reference-terms/MIT.txt"
+      ],
+      "sourceArchives": [
+        "sources/keyv-4.5.3-original-package.tar.gz"
+      ],
+      "status": "upstream-declaration-only",
+      "note": "Original SPDX declaration and original package are preserved; standard terms are reference material, not an invented copyright notice."
+    },
+    {
+      "name": "natural-compare",
+      "version": "1.4.0",
+      "license": "MIT",
+      "registryIntegrity": "sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==",
+      "upstream": {
+        "repository": "https://github.com/litejs/natural-compare-lite",
+        "commit": "eec83eee67cfac84d6db30cdd65363f155673770"
+      },
+      "noticeFiles": [
+        "notices/natural-compare-1.4.0/original-package-metadata.json",
+        "notices/reference-terms/MIT.txt"
+      ],
+      "sourceArchives": [
+        "sources/natural-compare-1.4.0-original-package.tar.gz"
+      ],
+      "status": "upstream-declaration-only",
+      "note": "Original SPDX declaration and original package are preserved; standard terms are reference material, not an invented copyright notice."
+    },
+    {
+      "name": "replace-in-file",
+      "version": "6.3.5",
+      "license": "MIT",
+      "registryIntegrity": "sha512-arB9d3ENdKva2fxRnSjwBEXfK1npgyci7ZZuwysgAp7ORjHSyxz6oqIjTEv8R0Ydl4Ll7uOAZXL4vbkhGIizCg==",
+      "upstream": {
+        "repository": "https://github.com/adamreisnz/replace-in-file",
+        "commit": "0a5c20231e4d217b3309f1c458e78124adbde3c0"
+      },
+      "noticeFiles": [
+        "notices/replace-in-file-6.3.5/original-package-metadata.json",
+        "notices/reference-terms/MIT.txt"
+      ],
+      "sourceArchives": [
+        "sources/replace-in-file-6.3.5-original-package.tar.gz"
+      ],
+      "status": "upstream-declaration-only",
+      "note": "Original SPDX declaration and original package are preserved; standard terms are reference material, not an invented copyright notice."
+    },
+    {
+      "name": "trim-buffer",
+      "version": "5.0.0",
+      "license": "MIT",
+      "registryIntegrity": "sha512-PqdsRmhir3lUwraK/O6sdZ9QcmtUK0c6F1utX/WNquJsL4Jpdck+DSe9Mqy8Wk7uAQD/SlVn6cyGF5bj6VF33Q==",
+      "upstream": {
+        "repository": "https://github.com/rannn505/child-shell",
+        "commit": "53d55fe71982aad3d10dfa2b962554675283f9c9"
+      },
+      "noticeFiles": [
+        "notices/trim-buffer-5.0.0/original-package-metadata.json",
+        "notices/trim-buffer-5.0.0/upstream/LICENSE.md"
+      ],
+      "sourceArchives": [],
+      "status": "original-source-notice"
+    },
+    {
+      "name": "@types/json5",
+      "version": "0.0.29",
+      "license": "MIT",
+      "registryIntegrity": "sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==",
+      "upstream": {
+        "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+        "commit": null
+      },
+      "noticeFiles": [
+        "notices/types__json5-0.0.29/original-package-metadata.json",
+        "notices/reference-terms/MIT.txt"
+      ],
+      "sourceArchives": [
+        "sources/types__json5-0.0.29-original-package.tar.gz"
+      ],
+      "status": "upstream-declaration-only",
+      "note": "Original SPDX declaration and original package are preserved; standard terms are reference material, not an invented copyright notice."
+    },
+    {
+      "name": "@rolldown/binding-win32-x64-msvc",
+      "version": "1.0.3",
+      "license": "MIT",
+      "registryIntegrity": "sha512-eXB7CHuaQdqmJcc3koCNtNPmT/bj2gc999kUFgBxG8Ac0NdgXc4rkCHhqrgrhN3zddvvvrgzj1e90SuSfmyIXA==",
+      "upstream": {
+        "repository": "https://github.com/rolldown/rolldown",
+        "commit": "a287faaa3db70e9e4145b6bc16567f596a3c2e1f"
+      },
+      "noticeFiles": [
+        "notices/rolldown__binding-win32-x64-msvc-1.0.3/original-package-metadata.json",
+        "notices/rolldown__binding-win32-x64-msvc-1.0.3/upstream/LICENSE"
+      ],
+      "sourceArchives": [],
+      "status": "original-source-notice"
+    },
+    {
+      "name": "@rolldown/binding-linux-x64-gnu",
+      "version": "1.0.3",
+      "license": "MIT",
+      "registryIntegrity": "sha512-B8m6tD5+/N5FeNQFbKlLA/2yVq9ycQP1SeedyEYYKWBNR3ZQbkvIUcNnDNM03lO1l5F2roiiFJGgvoLLyZXtSg==",
+      "upstream": {
+        "repository": "https://github.com/rolldown/rolldown",
+        "commit": "a287faaa3db70e9e4145b6bc16567f596a3c2e1f"
+      },
+      "noticeFiles": [
+        "notices/rolldown__binding-linux-x64-gnu-1.0.3/original-package-metadata.json",
+        "notices/rolldown__binding-linux-x64-gnu-1.0.3/upstream/LICENSE"
+      ],
+      "sourceArchives": [],
+      "status": "original-source-notice"
+    },
+    {
+      "name": "@rolldown/binding-darwin-x64",
+      "version": "1.0.3",
+      "license": "MIT",
+      "registryIntegrity": "sha512-9YpfeUvSE2RS7wysJ81uOZkXJz7f7Q55H2Gvp3VEw/EsahqDtrphrZ0EwDLK5vvKOzaCrBsjF8JmnMLcUt78Gg==",
+      "upstream": {
+        "repository": "https://github.com/rolldown/rolldown",
+        "commit": "a287faaa3db70e9e4145b6bc16567f596a3c2e1f"
+      },
+      "noticeFiles": [
+        "notices/rolldown__binding-darwin-x64-1.0.3/original-package-metadata.json",
+        "notices/rolldown__binding-darwin-x64-1.0.3/upstream/LICENSE"
+      ],
+      "sourceArchives": [],
+      "status": "original-source-notice"
+    },
+    {
+      "name": "@rolldown/binding-darwin-arm64",
+      "version": "1.0.3",
+      "license": "MIT",
+      "registryIntegrity": "sha512-PcAhP+ynjURNyy8SKGl5DQP94aGuB/7JrXJb/t7P+hanXvQVMWzUvRRhBAcg/lNRadBhoUPqSoP4xw5tR/KBEA==",
+      "upstream": {
+        "repository": "https://github.com/rolldown/rolldown",
+        "commit": "a287faaa3db70e9e4145b6bc16567f596a3c2e1f"
+      },
+      "noticeFiles": [
+        "notices/rolldown__binding-darwin-arm64-1.0.3/original-package-metadata.json",
+        "notices/rolldown__binding-darwin-arm64-1.0.3/upstream/LICENSE"
+      ],
+      "sourceArchives": [],
+      "status": "original-source-notice"
+    },
+    {
+      "name": "@novnc/novnc",
+      "version": "1.7.0",
+      "license": "MPL-2.0",
+      "registryIntegrity": "sha512-ucEJOx4T2avIRCleodk7YobZj5O2Ga2AeLfQ69A/yjG9HHba2+PDgwSkN3FttrmG+70ZGx21sElNFouK13RzyA==",
+      "upstream": {
+        "repository": "https://github.com/novnc/noVNC",
+        "commit": "63107bd06d9e1f6136ff21aeda8cd62cbf0d433e"
+      },
+      "noticeFiles": [
+        "notices/novnc__novnc-1.7.0/original-package-metadata.json",
+        "notices/novnc__novnc-1.7.0/upstream/LICENSE.txt",
+        "notices/reference-terms/MPL-2.0.txt"
+      ],
+      "sourceArchives": [
+        "sources/novnc__novnc-1.7.0-original-package.tar.gz"
+      ],
+      "status": "original-source-notice",
+      "preferredSourceArchive": "sources/novnc__novnc-1.7.0-original-package.tar.gz",
+      "note": "The original package contains the unminified JavaScript core and vendor source, not only a compiled application bundle."
+    },
+    {
+      "name": "spice-client",
+      "version": "1.2.0",
+      "license": "LGPL-3.0-or-later",
+      "registryIntegrity": "sha512-FOAkyvK0mSZmrzY1ueB9cbQKcgkyReNpyko6nnnpy3sWKtrRJGJkmwm5Hw4DaZAa0EzLfqu4m7tCmWCxorP0GQ==",
+      "upstream": {
+        "repository": "https://github.com/zxdong262/spice-js",
+        "commit": "aed3b4f841db65a9ab015e174d69ff4fccbb197f"
+      },
+      "noticeFiles": [
+        "notices/spice-client-1.2.0/original-package-metadata.json",
+        "notices/spice-client-1.2.0/upstream/LICENSE",
+        "notices/reference-terms/COPYING",
+        "notices/reference-terms/COPYING.LESSER"
+      ],
+      "sourceArchives": [
+        "sources/spice-client-1.2.0-original-package.tar.gz",
+        "sources/spice-client-1.2.0-aed3b4f.tar.gz"
+      ],
+      "status": "original-source-notice",
+      "preferredSourceArchive": "sources/spice-client-1.2.0-aed3b4f.tar.gz"
+    }
+  ],
+  "files": [
+    {
+      "path": "notices/accumulate-stream-5.0.0/original-package-metadata.json",
+      "bytes": 485,
+      "sha256": "fad50ee6b922101ed67f08ba22cbcd3edafaa9f048aef8c04815e6f9e3f06c6a"
+    },
+    {
+      "path": "notices/accumulate-stream-5.0.0/upstream/LICENSE.md",
+      "bytes": 1084,
+      "sha256": "27edb82f0b98a0403718a86c51513378e8075aac026ebacb5695c5c72efbcf09"
+    },
+    {
+      "path": "notices/ant-design__icons-svg-4.5.0/original-package-metadata.json",
+      "bytes": 387,
+      "sha256": "583debea16e50dc4693a70616a84de4cbb84c85b0650ceeffe364543ca8fc049"
+    },
+    {
+      "path": "notices/ant-design__icons-svg-4.5.0/upstream/LICENSE",
+      "bytes": 1099,
+      "sha256": "5d367fb0a07340571542eb4ee8eb1add62d37b71bad6786a57c2e9a86bf76c70"
+    },
+    {
+      "path": "notices/child-shell-5.0.0/original-package-metadata.json",
+      "bytes": 473,
+      "sha256": "c275c2c8c4465e8592bf7e1193b5da4fca190f608fbe10b82b99888a2a45b0a6"
+    },
+    {
+      "path": "notices/child-shell-5.0.0/upstream/LICENSE.md",
+      "bytes": 1084,
+      "sha256": "27edb82f0b98a0403718a86c51513378e8075aac026ebacb5695c5c72efbcf09"
+    },
+    {
+      "path": "notices/eastasianwidth-0.2.0/original-package-metadata.json",
+      "bytes": 401,
+      "sha256": "daae8355de8cb16fdc9635bd4ecc08ab80f1d1dfe8a800cd4bb324a59207a886"
+    },
+    {
+      "path": "notices/filesize-parser-1.5.1/original-package-metadata.json",
+      "bytes": 409,
+      "sha256": "bf6a044a29325d36698e8311ca90416876b906e3991ff7db0f26881ab2d04e45"
+    },
+    {
+      "path": "notices/find-free-port-2.0.0/original-package-metadata.json",
+      "bytes": 381,
+      "sha256": "a0e16c3ff1fc5de67653e02471ab7356a191fcea640fe7a094cd9e40c3e589fd"
+    },
+    {
+      "path": "notices/keyv-4.5.3/original-package-metadata.json",
+      "bytes": 413,
+      "sha256": "dc94f6a47167c3e0fff09590f6a8fc0827fe4cff69aa5dc9bfb8661cb43db14f"
+    },
+    {
+      "path": "notices/manate-2.0.3/original-package-metadata.json",
+      "bytes": 363,
+      "sha256": "199c60d35ccb4a0dbd1d31be6c7caf7c8cee79f7b3048f5f2025203f89f7ae33"
+    },
+    {
+      "path": "notices/natural-compare-1.4.0/original-package-metadata.json",
+      "bytes": 464,
+      "sha256": "566ba190ba928cc0f92e670302a733aa4f258a3210d9ec0321d4461771b7358b"
+    },
+    {
+      "path": "notices/node-bash-5.0.1/original-package-metadata.json",
+      "bytes": 469,
+      "sha256": "5c066ffa7c0b02d71ab77cc32877632dae729ba413f349b909419bafecf4bbca"
+    },
+    {
+      "path": "notices/node-bash-5.0.1/upstream/LICENSE.md",
+      "bytes": 1084,
+      "sha256": "27edb82f0b98a0403718a86c51513378e8075aac026ebacb5695c5c72efbcf09"
+    },
+    {
+      "path": "notices/novnc__novnc-1.7.0/original-package-metadata.json",
+      "bytes": 472,
+      "sha256": "7a0d95f831845bd1ed76c5b9482dc1f475eb044b34855a97f68a4f8b6586597c"
+    },
+    {
+      "path": "notices/novnc__novnc-1.7.0/upstream/LICENSE.txt",
+      "bytes": 2163,
+      "sha256": "3ccd2242d7f5b6c5ae831a486f63cce1f18d8cd11c511f6a7a7251673763b2d1"
+    },
+    {
+      "path": "notices/reference-terms/COPYING",
+      "bytes": 34674,
+      "sha256": "fb981668c18a279e285fc4d83fba1e836cc84dd4daa73c9697d3cfd2d8aca6e0"
+    },
+    {
+      "path": "notices/reference-terms/COPYING.LESSER",
+      "bytes": 42098,
+      "sha256": "996af0513df21f7496288951c41428a03c174e9e4a9d63665c57d670f845ccb1"
+    },
+    {
+      "path": "notices/reference-terms/ISC.txt",
+      "bytes": 823,
+      "sha256": "f2ec607f67bb0dd3053b49835b02110d5cd0f8eb6da3aac4dc0b142a6b299be9"
+    },
+    {
+      "path": "notices/reference-terms/MIT.txt",
+      "bytes": 1078,
+      "sha256": "b05785f9f18e6716bab63424b11454513b9943a222595b70411009202fc592b5"
+    },
+    {
+      "path": "notices/reference-terms/MPL-2.0.txt",
+      "bytes": 16727,
+      "sha256": "66a3107d5ad6a058aab753eaac2047ccb2ed0e39465dd0fe5844da3e300d5172"
+    },
+    {
+      "path": "notices/replace-in-file-6.3.5/original-package-metadata.json",
+      "bytes": 470,
+      "sha256": "1689ecff218ccc983e4a9d0d7bb35243a04f8aa7fe45276ccabf9e3798ab18a5"
+    },
+    {
+      "path": "notices/rolldown__binding-darwin-arm64-1.0.3/original-package-metadata.json",
+      "bytes": 424,
+      "sha256": "e9fee3074f7c82dd652a7c69770b5981231b17c6303cdbf70e1660c1ef17312c"
+    },
+    {
+      "path": "notices/rolldown__binding-darwin-arm64-1.0.3/upstream/LICENSE",
+      "bytes": 1302,
+      "sha256": "23ecfff35a5a2e80d92142f75228912c3b1abc4b5a8337a821ff4397e2f9f734"
+    },
+    {
+      "path": "notices/rolldown__binding-darwin-x64-1.0.3/original-package-metadata.json",
+      "bytes": 422,
+      "sha256": "2af2d249e37a2eae2cb294b53589582ef758a5be0037e91bbaa860c8439479a4"
+    },
+    {
+      "path": "notices/rolldown__binding-darwin-x64-1.0.3/upstream/LICENSE",
+      "bytes": 1302,
+      "sha256": "23ecfff35a5a2e80d92142f75228912c3b1abc4b5a8337a821ff4397e2f9f734"
+    },
+    {
+      "path": "notices/rolldown__binding-linux-x64-gnu-1.0.3/original-package-metadata.json",
+      "bytes": 425,
+      "sha256": "4458e8e55a487eb27ca09bf1ca05f89b6e415bffc201c35895413a87cc63e1ed"
+    },
+    {
+      "path": "notices/rolldown__binding-linux-x64-gnu-1.0.3/upstream/LICENSE",
+      "bytes": 1302,
+      "sha256": "23ecfff35a5a2e80d92142f75228912c3b1abc4b5a8337a821ff4397e2f9f734"
+    },
+    {
+      "path": "notices/rolldown__binding-win32-x64-msvc-1.0.3/original-package-metadata.json",
+      "bytes": 426,
+      "sha256": "75db8d3fa51aca30c83088a94e2038c187398492735e8e4235058e3b77dfd80b"
+    },
+    {
+      "path": "notices/rolldown__binding-win32-x64-msvc-1.0.3/upstream/LICENSE",
+      "bytes": 1302,
+      "sha256": "23ecfff35a5a2e80d92142f75228912c3b1abc4b5a8337a821ff4397e2f9f734"
+    },
+    {
+      "path": "notices/spice-client-1.2.0/original-package-metadata.json",
+      "bytes": 443,
+      "sha256": "11331967985cb4effb2c1ddeaa84275b512d2b3fd910707838ad118b79282028"
+    },
+    {
+      "path": "notices/spice-client-1.2.0/upstream/LICENSE",
+      "bytes": 540,
+      "sha256": "af13aca03baba14babd74f7bda793c41a1f8292c2ede03eb3da010ed5641bc80"
+    },
+    {
+      "path": "notices/trim-buffer-5.0.0/original-package-metadata.json",
+      "bytes": 473,
+      "sha256": "d112657406828ed27aa4d7def4413c4319b1dda26a55136271dfd1b22e9b38c2"
+    },
+    {
+      "path": "notices/trim-buffer-5.0.0/upstream/LICENSE.md",
+      "bytes": 1084,
+      "sha256": "27edb82f0b98a0403718a86c51513378e8075aac026ebacb5695c5c72efbcf09"
+    },
+    {
+      "path": "notices/types__json5-0.0.29/original-package-metadata.json",
+      "bytes": 395,
+      "sha256": "e4c214daa7239da7c2a58b8973d6de0e242310a0093616bbcd55e76f9d2c2432"
+    },
+    {
+      "path": "notices/xterm__addon-serialize-0.15.0-beta.292/original-package-metadata.json",
+      "bytes": 465,
+      "sha256": "277604e658f50423223f655dc673e2a133700cc087c4e7a4ce6cdfb0c9a78df2"
+    },
+    {
+      "path": "notices/xterm__headless-6.1.0-beta.292/original-package-metadata.json",
+      "bytes": 379,
+      "sha256": "38488173570f6da4c38f3602bbf895c57172de4af8ebbf49582d3e5ec24fc5de"
+    },
+    {
+      "path": "notices/xterm__headless-6.1.0-beta.292/upstream/LICENSE",
+      "bytes": 1261,
+      "sha256": "b569f629d00f2626a8100df2a1798210535621e42164dfd426a6fe5aac7b0ccd"
+    },
+    {
+      "path": "package.json",
+      "bytes": 467,
+      "sha256": "ce85328684bddc878b1c18db51fffad2fec6c2b05f8f1ab50ea657d50428dcca"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3308,
+      "sha256": "0e8e8e1dc114571109c7d1987f824d720e52d9de9f1817bd33112d3b8d57d57d"
+    },
+    {
+      "path": "sources/eastasianwidth-0.2.0-original-package.tar.gz",
+      "bytes": 2893,
+      "sha256": "eccfa12bbda71f9f8e09de7ad1a4e554369a6b4d43d7f86085e85055a8694c27"
+    },
+    {
+      "path": "sources/filesize-parser-1.5.1-original-package.tar.gz",
+      "bytes": 2234,
+      "sha256": "aa3ea540b18bd58d58059f649fc7d55135887c3bd009cb38f5a7fa518f94b9c0"
+    },
+    {
+      "path": "sources/find-free-port-2.0.0-original-package.tar.gz",
+      "bytes": 1929,
+      "sha256": "d9f35d71a1c573f2320bd703f195e510f6f90013f59be7f423aeb099c3fbfe32"
+    },
+    {
+      "path": "sources/keyv-4.5.3-original-package.tar.gz",
+      "bytes": 8647,
+      "sha256": "003f3d5b22a5a8c7fe3e4093775e9f008c654246430c32273ee5b50576c2b2b0"
+    },
+    {
+      "path": "sources/manate-2.0.3-original-package.tar.gz",
+      "bytes": 12008,
+      "sha256": "58dbb2e476dee603ea715cd8dd529263d41ad818528a746b44b9a681e7755e1e"
+    },
+    {
+      "path": "sources/natural-compare-1.4.0-original-package.tar.gz",
+      "bytes": 2510,
+      "sha256": "5e5569ecd12064f73632a8c18a45b1d1de4a27b699a671864801f1c35ee779ee"
+    },
+    {
+      "path": "sources/novnc__novnc-1.7.0-original-package.tar.gz",
+      "bytes": 155185,
+      "sha256": "32689f18d6abe96bc6530828a6bd0b9ae33bda07c083a6575ed255b5a8f2e903"
+    },
+    {
+      "path": "sources/replace-in-file-6.3.5-original-package.tar.gz",
+      "bytes": 15413,
+      "sha256": "5bc447ceff5281382b6d9aae3b36b7cea3859396ec6bfdfa7758417e5a039884"
+    },
+    {
+      "path": "sources/spice-client-1.2.0-aed3b4f.tar.gz",
+      "bytes": 182673,
+      "sha256": "41b9d2474a318c4b5b2c24f57357f9a4a542ffcbd7090ad2f9b90aa0f67199fe"
+    },
+    {
+      "path": "sources/spice-client-1.2.0-original-package.tar.gz",
+      "bytes": 507362,
+      "sha256": "529a649d137ab2fc922c4df5255e95363e86a1b734482cd6e6a708044a8fbfef"
+    },
+    {
+      "path": "sources/types__json5-0.0.29-original-package.tar.gz",
+      "bytes": 1507,
+      "sha256": "439d14e46f574bc1a62a72ad4598e7f22ebd8021410ab7d869723801c436e95d"
+    },
+    {
+      "path": "sources/xterm__addon-serialize-0.15.0-beta.292-original-package.tar.gz",
+      "bytes": 59917,
+      "sha256": "a529eb84c8f1069f67cfba5b70f3b4430887ef1e3158c3bc345deb28400b6621"
+    }
+  ]
+}
